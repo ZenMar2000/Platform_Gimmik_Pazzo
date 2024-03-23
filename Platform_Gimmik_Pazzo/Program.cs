@@ -10,6 +10,7 @@ namespace Platform_Gimmik_Pazzo
     {
         static void Main(string[] args)
         {
+            int i = 0;
         }
     }
 }
